@@ -1,6 +1,6 @@
 # Edge Computing in Industrial Communication
 
-!\[Edge Computing in Industrial Communication](edge\_computing\_industrial\_communication.png)
+![Edge Computing in Industrial Communication](edge_computing_industrial_communication.png)
 
 ## 
 
